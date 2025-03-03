@@ -1,34 +1,30 @@
-🌍🛸 Space Defense Game 🚀💥
-A fun, console-based game where you defend Earth from an alien invasion! 🌍💫
-Fire at coordinates on a 7x7 grid to destroy alien ships before they reach Earth. But watch out!
-Asteroids block your shots, and aliens move unpredictably each turn!
+# 🌍🛸 Space Defense Game 🚀💥
 
-🎯 Can you save the planet? 🎯
+A fun, console-based game where you **defend Earth** from an **alien invasion**! 🌍💫  
+Fire at coordinates on a **7x7 grid** to **destroy alien ships** before they reach Earth. But watch out—asteroids block your shots and aliens move unpredictably each turn!
 
-🕹️ How to Play
-1️⃣ Start the Game 🎮
+🎯 **Can you save the planet?** 🎯
 
-When you run the game, a 7x7 grid appears.
-Earth (🌍) is at the center, surrounded by asteroids (🪨) and hidden aliens (❓).
-2️⃣ Fire a Shot! 🔫
+---
 
-Enter a grid coordinate (e.g., B3) and press Enter to fire!
-Possible outcomes:
-🎯 Hit! — Alien ship destroyed! (🔥)
-🪨 Oops! — You hit an asteroid. Try again!
-❌ Miss! — The aliens move closer! 😱
-3️⃣ Aliens Move! 👾
+## 🕹️ How to Play
 
-After each shot, aliens teleport or move closer to Earth!
-If an alien lands next to Earth, it's Game Over! 😭
-4️⃣ Cheat Mode 🤫
+1. **Start the Game** 🎮  
+   - When you run the game, a **7x7 grid** appears:
+     - **Earth** (`🌍`) is at the center.
+     - **Asteroids** (`🪨`) are scattered across the grid.
+     - **Hidden aliens** (`❓`) lurk along the edges.
 
-Type CHEAT to reveal all alien positions. (No judgment! 😆)
-🏆 Win the Game: Destroy all alien ships before they reach Earth!
+2. **Fire a Shot! 🔫**  
+   - Enter a grid coordinate (e.g., `B3`) to fire.
+   - **Outcomes**:
+     - 🎯 **Hit!**: Alien ship destroyed (`🔥`).
+     - 🪨 **Asteroid Hit!**: You hit an asteroid—try again!
+     - ❌ **Miss!**: The aliens move, and the danger increases.
 
-🏗️ Features
-✨ Family-Friendly, Turn-Based Strategy! 🎲
-✨ Randomly Placed Asteroids for a Unique Challenge! 🪨
-✨ Aliens Move Dynamically! 👽➡️🌍
-✨ Simple Yet Addictive Gameplay! 🔄💡
-✨ No External Dependencies! 🐍
+3. **Cheat Mode 😎**  
+   - Type `CHEAT` to reveal the positions of all alien ships!
+
+4. **Win/Lose Conditions**  
+   - **Win**: Destroy all alien ships.
+   - **Lose**: An alien ship reaches Earth.
